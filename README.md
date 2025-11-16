@@ -2,12 +2,12 @@
 ## ID посылки: 348895156
 ## Github: https://github.com/akaannak/a1
 
-# experiments.py - графики
-# main.cpp - основное решение
-# mc - бинарник
-# plot_area.png - график первого типа
-# plot_error.png - график второго типа
-# results.csv - csv-файл с данными
+### experiments.py - графики
+### main.cpp - основное решение
+### mc - бинарник
+### plot_area.png - график первого типа
+### plot_error.png - график второго типа
+### results.csv - csv-файл с данными
 
 # Немного про данные:
 Структура CSV следующая (столбцы) :
